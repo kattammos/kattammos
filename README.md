@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @kattammos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ekaterina Ammosova. I'm a doctor, oncologist-surgeon.
+- 👀 I’m interested in anything medical. 
+- 🌱 I’m currently learning data science, AI. 
+- 📫 How to reach me: ammosova.27081991@gmail.com
+
+- I believe that thanks to AI, medicine will move forward. It will help me and my colleagues to improve the quality and efficiency of medical care. 
 
 <!---
 kattammos/kattammos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
